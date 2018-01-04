@@ -27,7 +27,7 @@ Tableau的产品特性
 1. 这是一张我的老师要求我们做的作品。
 2. 我用Python代码将数据抓出来，在这个过程中使用到了高德地图的API。
 3. 在进行了简单的数据清理之后，我将数据上传至了Tableau，做成了地图的形式，将种类进行了颜色的区分，可以很清楚的在地图上分开四者，并且知道其大致的分布。
-(http://161013034.guthub.io/images/xiaguanzi.png)
+(https://161013034.guthub.io/images/xiaguanzi.png)
 
 <div class="tiles">
 {% for post in site.categories.portfolio %}
