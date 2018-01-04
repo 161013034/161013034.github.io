@@ -31,7 +31,7 @@ Tableau的产品特性
 
 信息可视化期末作品：
 <div class='tableau1' style='width:800; height:600;'> 
-<iframe src="">https://public.tableau.com/profile/.5484#!/vizhome/_18156/1?publish=yes</iframe> 
+<iframe src="https://public.tableau.com/profile/.5484#!/vizhome/_18156/1?publish=yes"></iframe> 
 </div>
 
 <div class="tiles">
