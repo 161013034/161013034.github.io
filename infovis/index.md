@@ -6,7 +6,7 @@ modified:
 excerpt: "信息可视化笔记与作品"
 tags: []
 image: 
-  feature: tableau.png
+  feature: smilec.jpg
   teaser:
 ---
 
