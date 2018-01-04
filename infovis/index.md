@@ -29,6 +29,11 @@ Tableau的产品特性
 3. 在进行了简单的数据清理之后，我将数据上传至了Tableau，做成了地图的形式，将种类进行了颜色的区分，可以很清楚的在地图上分开四者，并且知道其大致的分布。
 ![image](https://161013034.github.io/images/xiaguanzi.png)
 
+信息可视化期末作品：
+<div class='tableau1' style='width:800; height:600;'> 
+<iframe src="">https://public.tableau.com/profile/.5484#!/vizhome/_18156/1?publish=yes</iframe> 
+</div>
+
 <div class="tiles">
 {% for post in site.categories.portfolio %}
   {% include post-grid.html %}
