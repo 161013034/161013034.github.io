@@ -30,7 +30,7 @@ Tableau的产品特性
 ![image](https://161013034.github.io/images/xiaguanzi.png)
 
 信息可视化期末作品：
-<div class='tableau1' style='width:800; height:600;'> 
+<div class='tableau1' style='width:1600; height:1200;'> 
 <iframe src="https://public.tableau.com/profile/.5484#!/vizhome/_18156/1?publish=yes"></iframe> 
 </div>
 
