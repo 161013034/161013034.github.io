@@ -1,29 +1,15 @@
 ---
 layout: archive
 title: "信息可视化作品集"
-date: 2017-12-30T11:40:45-04:00
+date: 2018-1-1T14:25:45-04:00
 modified:
-excerpt: "信息可视化笔记与作品"
+excerpt: "可视化设计作品集"
 tags: []
-image: 
-  feature: 
-  teaser:
 ---
 
-信息可视化期末作品：
-1. 下图是科技馆、艺术馆、美术馆、蜡像馆、海洋馆、博物馆在全国范围的分布，做成了地图形式。
-![image](https://161013034.github.io/images/ditu.png)
-2. 下图是科技馆、艺术馆、美术馆、蜡像馆、海洋馆、博物馆在全国各省的总数条形图，可以对比看出哪个省份总数量最多。
-![image](https://161013034.github.io/images/tiaoxintu2.png)
-3. 下图是科技馆、艺术馆、美术馆、蜡像馆、海洋馆、博物馆在全国各省的数量的表格分析，直观的数据量配上颜色的深浅更有利于分析。
-![image](https://161013034.github.io/images/biaoge.png)
-4. 下图是科技馆、艺术馆、美术馆、蜡像馆、海洋馆、博物馆在全国各省的数量条形图分析，可以通过颜色的比较看出各省什么展馆最多。
-![image](https://161013034.github.io/images/tiaoxintu.png)
-5. 下图是科技馆、艺术馆、美术馆、蜡像馆、海洋馆、博物馆在全国数量饼图分析，可以通过所占面积大小看出展馆在全国的数量。
-![image](https://161013034.github.io/images/bintu.png)
 
 <div class="tiles">
-{% for post in site.categories.portfolio %}
+{% for post in site.categories.tableau %}
   {% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles 把所有categories 有 portfolio 的列出來-->
+</div><!-- /.tiles 把所有categories 有 tableau 的列出来-->
