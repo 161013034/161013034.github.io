@@ -18,7 +18,7 @@ image:
 - [炫酷的可视化](https://public.tableau.com/en-us/s/gallery)，这个网站上面会选出由世界各地的Tableau爱好者每天上传的最优秀的的tableau作品
 
 # Tableau期中作品
-[我的Tableau期中作品]我的Tableau期中作品(https://public.tableau.com/profile/.45238104#!/vizhome/_15729/12)
+- [我的Tableau期中作品](https://public.tableau.com/profile/.45238104#!/vizhome/_15729/12)
 
 # 我的第一份不太成熟的Tableau作品
 1. 这是一张我的老师要求我们做的作品。
