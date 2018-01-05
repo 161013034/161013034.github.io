@@ -7,9 +7,6 @@ image:
   teaser: smilec.jpg
 ---
 
-
-
-
 # 信息可视化入门
 
 
@@ -20,10 +17,8 @@ image:
 - [Tableau相关教学视频](https://public.tableau.com/zh-cn/)，你可以通过这个网址进行基础的学习。
 - [炫酷的可视化](https://public.tableau.com/en-us/s/gallery)，这个网站上面会选出由世界各地的Tableau爱好者每天上传的最优秀的的tableau作品
 
-# Tableau的产品特性
-1. 轻松整合。共享内置于 Tableau Desktop 的分析视角。
-2. 交互性。您可以过滤、排序并深入挖掘特定的详细信息。
-3. 完全免费。只需下载即可开始浏览数据。
+# Tableau期中作品
+[我的Tableau期中作品]我的Tableau期中作品(https://public.tableau.com/profile/.45238104#!/vizhome/_15729/12)
 
 # 我的第一份不太成熟的Tableau作品
 1. 这是一张我的老师要求我们做的作品。
