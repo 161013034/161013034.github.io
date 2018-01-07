@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "关于信息可视化"
+title:  "信息可视化作品合集"
 date:   2018-01-07 13:15:50 +0800
 categories: posts infovis
 image:
